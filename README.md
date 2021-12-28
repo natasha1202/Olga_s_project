@@ -1,2 +1,2 @@
-# Olga_s_project
-Java and Selenium for testers
+# java_courses
+Java for software testers course
